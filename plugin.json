@@ -1,0 +1,12 @@
+{
+    "ID":"D2D2C23B084D411DB77FE0C79D6C1B7H",
+    "ActionKeyword":"rr",
+    "Name":"Raindrop",
+    "Description":"Raindrop",
+    "Author":"caaatpro",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"http://caaat.pro",
+    "IcoPath":"Images\\app.ico",
+    "ExecuteFileName":"main.py"
+}
